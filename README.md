@@ -8,6 +8,7 @@ https://maven.google.com/androidx/arch/core/core-common/2.0.0/core-common-2.0.0.
 - [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
 
 
+
 **References:**
 - https://developer.android.com/jetpack
 - https://developer.android.com/jetpack/androidx/releases/arch
